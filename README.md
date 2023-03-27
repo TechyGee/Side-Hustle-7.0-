@@ -6,3 +6,6 @@ Add a PHP file, Declare your name as a variable and echo it
 
 # Week Two Task:
 Creating a logic of simple voting system.
+
+# Week Three Task:
+Writing function to multiply three numbers; connecting to mysql db.
